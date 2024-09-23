@@ -1,0 +1,7 @@
+documentation
+Pakage Declaretion
+import statment
+class dafinason
+main function
+code block
+class clodse
